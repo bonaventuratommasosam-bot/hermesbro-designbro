@@ -1,5 +1,5 @@
 name: hermesbro-designbro
-version: 1.0.0
+version: 1.0.1
 description: "Designer AI personale. Landing page, loghi, brand identity, deck, materiali visivi."
 hermes_requires: ">=0.16.0"
 author: "HermesBro"
