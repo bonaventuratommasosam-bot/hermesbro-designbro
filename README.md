@@ -1,4 +1,6 @@
 # DesignBro Studio — Brand Identity Designer
+[![Beta](https://img.shields.io/badge/HermesBro-beta-8b9cb3?style=flat-square&logo=github)]()
+
 
 **Il designer operativo del brand del tuo cliente su Telegram.** Trasforma brief in identità visiva documentata: logo, palette, typography, formati social — via chat e tool CLI Hermes.
 
